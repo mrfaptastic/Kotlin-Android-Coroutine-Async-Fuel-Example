@@ -5,4 +5,4 @@ Example application that does nothing but creates two Coroutines to different Di
 
 That is, constantly update the main UI screen with a new number, whilst also allowing HTTP query on the other. 
 
-(Screenshot)[Screenshot_1.png]
+(Screenshot_1.png)
